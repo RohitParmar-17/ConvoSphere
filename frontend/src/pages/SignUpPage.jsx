@@ -35,7 +35,9 @@ const SignUpPage = () => {
   };
 
   return (
-    <div className='pt-9 grid lg:grid-cols-2'>
+    // <div className='pt-9 grid lg:grid-cols-2'>
+    <div className="mt-10 grid lg:grid-cols-2 h-screen sm:h-auto">
+
     {/* <div className='min-h-screen grid lg:grid-cols-2'> */}
       {/* left side */}
       <div className='flex flex-col justify-center items-center p-6 sm:p-12'>
