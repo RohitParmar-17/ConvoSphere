@@ -5,16 +5,16 @@ ConvoSphere is a **real-time chat application** that enables seamless **one-on-o
 ## Screenshots
 
 ### One-on-One Messaging
-<img src="https://github.com/RohitParmar-17/CommunityHub/blob/main/screenshots/django1.png" alt="Home Page" width="100%">
+<img src="https://github.com/RohitParmar-17/ConvoSphere/blob/master/frontend/src/Assets/message.png" alt="Home Page" width="100%">
 
 ### Instant Photo Sharing
-<img src="https://github.com/RohitParmar-17/CommunityHub/blob/main/screenshots/django1.png" alt="Home Page" width="100%">
+<img src="https://github.com/RohitParmar-17/ConvoSphere/blob/master/frontend/src/Assets/picture.png" alt="Home Page" width="100%">
 
 ### Profile View
-<img src="https://github.com/RohitParmar-17/CommunityHub/blob/main/screenshots/django1.png" alt="Home Page" width="100%">
+<img src="https://github.com/RohitParmar-17/ConvoSphere/blob/master/frontend/src/Assets/profile.png" alt="Home Page" width="100%">
 
 ### Multi-Theme Settings
-<img src="https://github.com/RohitParmar-17/CommunityHub/blob/main/screenshots/django1.png" alt="Home Page" width="100%">
+<img src="https://github.com/RohitParmar-17/ConvoSphere/blob/master/frontend/src/Assets/theme.png" alt="Home Page" width="100%">
 
 
 ## Features
@@ -37,7 +37,7 @@ ConvoSphere is a **real-time chat application** that enables seamless **one-on-o
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ConvoSphere.git
+   git clone https://github.com/RohitParmar-17/ConvoSphere.git
    cd ConvoSphere
    ```
 2. Install dependencies:
@@ -55,7 +55,7 @@ ConvoSphere is a **real-time chat application** that enables seamless **one-on-o
    ```
 5. Start the frontend:
    ```sh
-   npm run dev
+   npm start
    ```
 
 ## Usage
@@ -68,13 +68,8 @@ ConvoSphere is a **real-time chat application** that enables seamless **one-on-o
 
 Feel free to submit pull requests or open issues for any improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Connect with Me
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- Email: [rohitghost5050@gmail.com]
 
