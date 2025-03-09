@@ -70,6 +70,6 @@ Feel free to submit pull requests or open issues for any improvements.
 
 ---
 
-### Connect with Me
-- Email: [rohitghost5050@gmail.com]
-
+## Contact
+For any issues or suggestions, feel free to reach out:
+- **Email**: rohitghost5050@gmail.com
