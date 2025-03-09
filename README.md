@@ -51,11 +51,11 @@ ConvoSphere is a **real-time chat application** that enables seamless **one-on-o
    ```
 4. Start the backend server:
    ```sh
-   npm run server
+   npm start
    ```
 5. Start the frontend:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## Usage
