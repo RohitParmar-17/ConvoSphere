@@ -5,16 +5,16 @@ ConvoSphere is a **real-time chat application** that enables seamless **one-on-o
 ## Screenshots
 
 ### One-on-One Messaging
-![One-on-One Messaging](screenshots/one-on-one-messaging.png)
+<img src="https://github.com/RohitParmar-17/CommunityHub/blob/main/screenshots/django1.png" alt="Home Page" width="100%">
 
 ### Instant Photo Sharing
-![Instant Photo Sharing](screenshots/photo-sharing.png)
+<img src="https://github.com/RohitParmar-17/CommunityHub/blob/main/screenshots/django1.png" alt="Home Page" width="100%">
 
 ### Profile View
-![Profile View](screenshots/profile-view.png)
+<img src="https://github.com/RohitParmar-17/CommunityHub/blob/main/screenshots/django1.png" alt="Home Page" width="100%">
 
 ### Multi-Theme Settings
-![Multi-Theme Settings](screenshots/multi-theme.png)
+<img src="https://github.com/RohitParmar-17/CommunityHub/blob/main/screenshots/django1.png" alt="Home Page" width="100%">
 
 
 ## Features
